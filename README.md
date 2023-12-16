@@ -23,3 +23,6 @@ Titan Image Generator G1 is a generative foundation model that generates images 
 <img width="1010" alt="image" src="https://github.com/amarjit420/AWS_Bedrock/assets/80757241/03aea32b-ed53-40f1-b13c-540a028651af">
 
 
+<img width="1964" alt="image" src="https://github.com/amarjit420/AWS_Bedrock/assets/80757241/bb9d2f1b-e703-4ca5-ae13-490d1241d60f">
+
+
